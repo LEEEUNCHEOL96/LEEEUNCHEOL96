@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/LEEEUNCHEOL96"
-  width="800"
+  width="1300"
   height="300"
 />
 </a>
